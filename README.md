@@ -4,6 +4,7 @@
 ## Cursos
 - TC - TÉCNICOS
     - **[Técnico em Desenvolvimento de Sistemas (1200 horas)](./ds/README.md)**
+    - **[Técnico em Mecatrônica (1200 horas)](./ds/README.md)**
 - FIC - FORMAÇÃO INICIAL E CONTINUADA
     - Excel Básico, Avançado
     - Power BI
