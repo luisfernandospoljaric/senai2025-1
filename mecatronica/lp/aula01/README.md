@@ -92,4 +92,5 @@ Utilizando uma balança semelhanta a da imagem abaixo apenas duas vezes ele deve
 
 ## Exercícios
 - 1 Crie um fluxograma que receba como entrada a três números inteiros, calcule a média aritimética destes números e mostre o resultado como saída.
-- 2 Sabendo que uma transpotadora possui caminhões que transportam 5 toneladas por viagem, faça um fluxograma que receba o peso em toneladas a ser transportado e calcule quantos caminhões serão necessários para este frete.
+- 2 Sabendo que uma transpotadora ACME possui caminhões que transportam no máximo 5 toneladas por viagem, faça um fluxograma que receba o peso em toneladas a ser transportado, calcule e mostre quantos caminhões serão necessários.
+- 3 Desenhe um fluxorama que receba como entrada data de nascimento de uma pessoa, calcule e mostre quantos anos ela possui.
