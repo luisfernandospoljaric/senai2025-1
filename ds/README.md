@@ -1,7 +1,6 @@
 # Técnico em Desenvolvimento de Sistemas
 ## 5º Itinerário: Formação Técnica e Profissional
 Esse itinerário específico é voltado para a Formação Técnica e Profissional dos estudantes em parceria SEDUC (Secretaria de Educação do Estado de São Paulo) e SESI (Serviço Social da Indústria) e SENAI (Serviço Nacional de Aprendizagem Industrial).
-## [Plano de Curso](https://github.com/wellifabio/sesi2024/blob/main/PlanoCurso.pdf)
 ## Semestres
 - [1º Semestre](./1des/README.md)
     - Lógica de Programação e Algoritmos (75/100)
