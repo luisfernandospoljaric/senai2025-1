@@ -1,4 +1,4 @@
-# Aula01 [Meet](https://meet.google.com/bas-otoj-veo)
+# Aula01 [Meet](./)
 - Manual do aluno
 - Preparação do ambiente
     - VsCode
@@ -93,7 +93,24 @@
 
 ## Instruções para entrega
 - Crie um repositório no GitHub com o nome `front-end-aula01`
-- Na raiz de sua pasta local crie um arquivo 'index.html' com um menú que aponte para cada exercício.
+- Na raiz de sua pasta local crie um arquivo **index.html** com um menú que aponte para cada exercício.
+    ```html
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Lista de exercícios Front-end</title>
+    </head>
+    <body>
+        <h1>Lista de exercícios Front-end</h1>
+        <button onclick="window.location.href='./exemplo01'">Exemplo 1 Desconto</button>
+        <button onclick="window.location.href='./exemplo02'">Exemplo 2 Salário Família</button>
+        <button onclick="window.location.href='./ex1'">Exercício 1 INSS</button>
+        <button onclick="window.location.href='./ex2'">Exercício 2 Triângulos</button>
+    </body>
+    </html>
+    ```
 - Envie tudo para o seu repositório no GitHub.
 - Habilite o git pages no seu repositório.
 - Envie o link do seu repositório no **[Form para Entrega](https://docs.google.com/forms/d/e/1FAIpQLSe0vQZG0vyO779t-NUgBkWfGmF0afIuxDUklWXi61f9NoQ9MQ/viewform?usp=header)**
