@@ -1,4 +1,4 @@
-# Aula01
+# Aula01 [Meet](https://meet.google.com/ofc-zmqr-xvf)
 - Manual do aluno
 - Preparação do ambiente
     - VsCode
