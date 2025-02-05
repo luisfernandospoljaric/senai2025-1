@@ -1,4 +1,4 @@
-# Aula01 [Meet](./)
+# Aula01 [Meet](https://meet.google.com/kvc-zzop-qhz)
 - Manual do aluno
 - Preparação do ambiente
     - VsCode
