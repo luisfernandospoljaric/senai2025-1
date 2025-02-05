@@ -1,4 +1,4 @@
-# Aula01 [Meet](https://meet.google.com/kvc-zzop-qhz)
+# Aula01 [Meet](https://meet.google.com/bpw-yrsy-qbu)
 - Manual do aluno
 - Preparação do ambiente
     - VsCode
