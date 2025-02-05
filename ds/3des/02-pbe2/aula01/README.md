@@ -1,5 +1,4 @@
-# Aula01 [Meet](https://meet.google.com/sos-jobf-bzj)
-- Preparação do ambiente
+# Aula01
     - VsCode
     - XAMPP
     - Node.js
