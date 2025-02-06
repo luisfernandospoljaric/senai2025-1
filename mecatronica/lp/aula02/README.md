@@ -25,3 +25,22 @@ Escreva I;
 
 ### Correção
 ![fluxograma-exercicio01](./exercicios.png)
+
+## Execução do fluxograma 02 em linguagem C
+```c
+#include <stdio.h>
+
+int main() {
+    int peso, viagens;
+    printf("Digite o peso em toneladas: ");
+    scanf("%d",&peso);
+    viagens = peso / 5;
+    printf("Serão necessárias %d viagens", viagens);
+    return 0;
+}
+```
+- Resultado:
+```bash
+Digite o peso em toneladas: 50
+Serão necessárias 10 viagens
+```
