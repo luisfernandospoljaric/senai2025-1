@@ -41,3 +41,4 @@ Esse itinerário específico é voltado para a Formação Técnica e Profissiona
 - 4 Se tiver dificuldades de acesso, senha, clique **[Tutorial de como acessar o Portal EAD](https://ead.sp.senai.br/tutorial/comoacessar/)**
 - 5 Enviar os certificados (Print ou PDF) neste formulário **[FORMS](https://forms.gle/STMxikkU8qVfLuEb8)**
 
+## Para o Professor [Materiais didáticos](https://sesisenaisp.sharepoint.com/:u:/r/sites/NovaGED/RecursosDidaticos/SitePages/T%C3%A9cnico-em-Desenvolvimento-de-Sistemas.aspx?csf=1&web=1&e=uUzUI8)
