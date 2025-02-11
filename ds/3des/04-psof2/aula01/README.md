@@ -1,4 +1,4 @@
-# Aula01 [Meet](https://meet.google.com/eca-mwkj-bwf)
+# Aula01
 - Preparação do ambiente
     - VsCode
     - XAMPP
