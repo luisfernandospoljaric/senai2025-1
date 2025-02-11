@@ -74,3 +74,17 @@
     - 6% de aumento : salario Atual >= 3.000,00
 - 8 Crie um endpoint que calcule a média de 3 notas do aluno e informe sua situação: (nota maior ou igual a 6 : aprovado), (nota inferior a 6 e maior ou igual a 4 : recuperação), (nota menor que 4 : reprovado).
 - 9 Uma loja está fazendo uma promoção e precisa de ajuda no momento da venda, para liberar os descontos. Baseado na peça, calcule o desconto e exiba o valor final da venda. (camisa - 20% de desconto, bermuda - 10% de desconto, calça - 15% de desconto).
+
+## Instruções para a entrega
+- Em um repositório público do github chamado **pbe2-aula01-lista**, adicione os arquivos envie o seu back-end contendo os arquivos:
+    - **.gitignore** contendo:
+    ```
+    node_modules
+    package-lock.json
+    ```
+    - **insomnia.json** com a exportação dos testes unitários
+    - **server.js** contendo o código do back-end
+    - **package.json** contendo as dependências do projeto
+    - **README.md** com o passo a passo de como executar o projeto e os testes unitários
+- [Exemplo de entrega](https://github.com/wellifabio/lista-pbe1-01-2025.git)
+- Envie o link do repositório neste formulário: [Formulário de entrega](https://docs.google.com/forms/d/e/1FAIpQLSdks6qtAKfieNIyI92Atf7CJHZ9w3zEEldxayRYAJaQ8_6-8Q/viewform?usp=header) e responda as perguntas.
