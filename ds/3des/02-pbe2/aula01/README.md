@@ -1,4 +1,4 @@
-# Aula01 [Meet](https://meet.google.com/ytp-oikw-kkj)
+# Aula01
     - VsCode
     - XAMPP
     - Node.js
