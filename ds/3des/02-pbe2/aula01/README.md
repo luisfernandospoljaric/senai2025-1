@@ -57,9 +57,9 @@
     - O resultado esperado é o da imagem abaixo:
     ![Exp1](./exp1.png)
 
-- 2 Desenvolva um endpoint que leia o salário de um funcionário e o número de filhos. Se o salário for menor do que 2000 o funcionário receberá um salário família equivalente a 45 reais por filho. Apresente o salário final. (O endpoint deve calcular o desconto no back-end e exibir o resultado no front-end atrvés do Insomnia). O resultado esperado é o da imagem abaixo:
+- 2 Desenvolva um endpoint que leia o salário de um funcionário e o número de filhos. Se o salário for menor do que 2000 o funcionário receberá um salário família equivalente a 45 reais por filho. Apresente o salário final. (O endpoint deve calcular o salário família no back-end e exibir o resultado no front-end através do Insomnia). O resultado esperado é o da imagem abaixo:
 ![Exp2](./exp2.png)
-
+![Tela](./tela.png)
 ## Exercícios
 - 1 Desenvolva um endpoint que calcule desconto de INSS de um funcionário, se o salário for menor ou igual a 1212,00 reais será de 7,5%, se estiver entre 1212,01 e 2427,35 será de 9%, se estiver entre 2427,36 e 3641,03 o desconto é 12%, se estiver entre 3641,04 e 7087,22 será de 14% e se for maior do que 7087,22 o teto que é o máximo cobrado 14% de 7087,22. Mostre o desconto e o valor do salário final.
 - 2 Desenvolva um endpoint que leia os valores de três lados de um triângulo (a, b e c) e se os três lados forem diferentes escreva ESCALENO se os três lados forem iguais EQUILÁTERO e se apenas dois lados forem iguais ISÓSCELES.
