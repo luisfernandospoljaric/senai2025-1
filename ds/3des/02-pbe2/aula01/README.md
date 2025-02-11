@@ -87,4 +87,4 @@
     - **package.json** contendo as dependências do projeto
     - **README.md** com o passo a passo de como executar o projeto e os testes unitários
 - [Exemplo de entrega](https://github.com/wellifabio/lista-pbe1-01-2025.git)
-- Envie o link do repositório neste formulário: [Formulário de entrega](https://docs.google.com/forms/d/e/1FAIpQLSdks6qtAKfieNIyI92Atf7CJHZ9w3zEEldxayRYAJaQ8_6-8Q/viewform?usp=header) e responda as perguntas.
+- Envie o link do repositório neste formulário: [Formulário de entrega](https://forms.gle/UTDDCYMzE388ovcM6) e responda as perguntas.
