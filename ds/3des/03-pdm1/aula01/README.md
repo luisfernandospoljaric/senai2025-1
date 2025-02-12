@@ -32,7 +32,9 @@ Aplicativo Calculadora Simples
 - Troca de telas
 - Texto para Fala
 ![inicio](./inicio.png)
-Lógica de probramação em blocos
+Blocos da primeira tela
+![bloco](./bloco0.png)
+Blocos da segunda tela
 ![bloco](./bloco1.png)
 
 ## Tipos de Build
@@ -42,7 +44,9 @@ Lógica de probramação em blocos
 
 ### Exemplo de Quiz
 ![quiz](./quiz1.png)
-![blocos](./quiz2.png)
+|Blocos de todas as telas|
+|-|
+|![blocos](./quiz2.png)|
 
 ## Desafio
 Em grupos com até 3 componentes, crie um quiz com pelo menos 10 questões, vários botões de escolhas (3 a 4), sobre um dos temas a seguir:
