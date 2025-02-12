@@ -159,5 +159,7 @@ A estrutura de pastas e arquivos do projeto de exemplo está representada na ima
 - 8 Crie feacture / funcionalidade que calcule a média de 3 notas do aluno e informe sua situação: (nota maior ou igual a 6 : aprovado), (nota inferior a 6 e maior ou igual a 4 : recuperação), (nota menor que 4 : reprovado).
 - 9 Uma loja está fazendo uma promoção e precisa de ajuda no momento da venda, para liberar os descontos. Baseado na peça, calcule o desconto e exiba o valor final da venda. (camisa - 20% de desconto, bermuda - 10% de desconto, calça - 15% de desconto).
 
+
+## Entrega
 - Envie tudo para o seu repositório no GitHub.
 - Envie o link do seu repositório no **[Form para Entrega](https://forms.gle/BfrUqgi4bbcSHU5NA)**
