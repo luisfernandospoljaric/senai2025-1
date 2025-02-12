@@ -45,7 +45,7 @@ Lógica de probramação em blocos
 ![blocos](./quiz2.png)
 
 ## Desafio
-Em grupos com até 3 componentes, crie um quiz com pelo menos 10 questões, várias escolhas, sobre um dos temas a seguir:
+Em grupos com até 3 componentes, crie um quiz com pelo menos 10 questões, vários botões de escolhas (3 a 4), sobre um dos temas a seguir:
 - Temas
     - História
     - Inglês
@@ -54,4 +54,8 @@ Em grupos com até 3 componentes, crie um quiz com pelo menos 10 questões, vár
     - Química
     - Física
     - Espanhol
-Acrescente imagens, texto para fala, seja criativo.
+- Acrescente imagens, texto para fala, seja criativo.
+
+## Instruções para entrega
+- O quiz sera entregue via github em um arquivo .aia e se possível, com celular para uso didático deve ser apresentado a sua professora ou professor da matéria na escola, solicitando um feedback (Se ficou bom, se necessita de melhorias, se ajuda no aprendizado)
+- O resultado da sua apresentação ou entrevista com o professor deverá ser escrito no arquivo README.md do repositório do github.
