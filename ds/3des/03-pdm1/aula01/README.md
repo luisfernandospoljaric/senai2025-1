@@ -31,22 +31,30 @@ Aplicativo Calculadora Simples
 - Botões
 - Troca de telas
 - Texto para Fala
-![inicio](./inicio.png)
-Blocos da primeira tela
-![bloco](./bloco0.png)
-Blocos da segunda tela
-![bloco](./bloco1.png)
+
+|Caculadora|
+|-|
+|![inicio](./inicio.png)|
+|Blocos da primeira tela|
+|![bloco](./bloco0.png)|
+|Blocos da segunda tela|
+|![bloco](./bloco1.png)|
 
 ## Tipos de Build
 - Arquivo .aia (Projeto) exportar o arquivo neste formato para enviar para o professor via github
 - Arquivo .apk (Aplicativo) Versão para instalar no celular do desenvolvedor
 - Connection QR Code (Aplicativo) Versão para instalar no celular do desenvolvedor. Utiliza o QR Code para conectar com o App Inventor
 
-### Exemplo de Quiz
+### Exercício Quiz (Individual)
+- Criar um quiz com 2 perguntas e 2 alternativas cada conforme imagens a seguir:
 ![quiz](./quiz1.png)
+
 |Blocos de todas as telas|
 |-|
 |![blocos](./quiz2.png)|
+
+- A ultima tela deve mostrar a pontuação do usuário (total de acertos).
+
 
 ## Desafio
 Em grupos com até 3 componentes, crie um quiz com pelo menos 10 questões, vários botões de escolhas (3 a 4), sobre um dos temas a seguir:
