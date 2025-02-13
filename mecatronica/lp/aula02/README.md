@@ -44,3 +44,15 @@ int main() {
 Digite o peso em toneladas: 50
 Serão necessárias 10 viagens
 ```
+
+## Execução do fluxograma 02 em linguagem Python
+```python
+peso = int(input('Digite o peso em toneladas:'))
+viagens = peso / 5
+print('Será necessário ', viagens, ' viagens para este transporte')
+```
+- Resultado:
+```bash
+Digite o peso em toneladas: 50
+Será necessário  10.0  viagens para este transporte
+```
