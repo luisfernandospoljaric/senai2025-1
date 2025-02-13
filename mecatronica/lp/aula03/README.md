@@ -1,4 +1,4 @@
-# Aula03 - Fluxograma
+# Aula03 - Algoritmo, Fluxograma e Programação
 
 ## Lista de exercícios
 - 1 - 1 Desenvolva um algoritmo e um fluxograma que leia três variáveis (a, b, c) e resolva a expressão: ( a + b ) / c.
