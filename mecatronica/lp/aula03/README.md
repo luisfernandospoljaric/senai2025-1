@@ -12,3 +12,6 @@
 - 9 Desenvolva um algoritmo e um fluxograma que leia o nome e o preço de uma mercadoria. O algoritmo e um fluxograma deverá calcular um aumento de 5% no preço da mercadoria e mostrar o nome da mercadoria e o seu novo preço.
 - 10 Desenvolva um algoritmo e um fluxograma que leia o nome de uma cidade, o número total de eleitores e o número total de votos apurados na última eleição. O algoritmo e um fluxograma deverá calcular e exibir a porcentagem de participação dos eleitores desta cidade na última eleição.
 - **Obs**: Todas as entradas serão consideradas como valores inteiros e positivos, portanto o algoritmo e um fluxograma não precisará testá-las.
+
+### Todos os algoritmos e fluxogramas deverão ser feitos no seu caderno e mostrados ao professor na aula seguinte.
+Os programas em python serão desenvolvidos no laboratório de informática na próxima aula.
