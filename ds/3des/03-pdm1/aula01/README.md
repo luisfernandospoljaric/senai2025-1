@@ -69,5 +69,17 @@ Em grupos com até 3 componentes, crie um quiz com pelo menos 10 questões, vár
 - Acrescente imagens, texto para fala, seja criativo.
 
 ## Instruções para entrega
-- O quiz sera entregue via github em um arquivo .aia e se possível, com celular para uso didático deve ser apresentado a sua professora ou professor da matéria na escola, solicitando um feedback (Se ficou bom, se necessita de melhorias, se ajuda no aprendizado)
-- O resultado da sua apresentação ou entrevista com o professor deverá ser escrito no arquivo README.md do repositório do github.
+- Ao concluir o projeto exportar o arquivo .aia e enviar para o repositório do github
+- Exportar o arquivo .apk e instalar no celular para uso didático
+- Apresentar o quiz ao professor da matéria escolhida como tema.
+    - Pedir para o professor responder o quiz e mostrar a pontuação final.
+    - Pedir a opinião do professor sobre o quiz.
+    - Pedir sugestões de melhorias.
+- Criar um repositório público no github com o nome **quiz-tema**, exemplo: **quiz-biologia**
+- Criar um arquivo README.md contendo:
+    - Título do Quiz
+    - Tecnologias utilizadas (Exp: Mit App Inventor, .apk, .aia)
+    - Print das telas do quiz
+    - Nome do professor que testou o quiz
+    - Comentário do professor sobre o quiz, se gostou, se faria alguma sugestão de melhoria.
+- Enviar o link do repositório para o professor neste **[formulário]()**
