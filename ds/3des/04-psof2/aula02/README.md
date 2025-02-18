@@ -1,4 +1,4 @@
-# Aula 02 - Projeto Full-Stack (CRUD) [MEET](https://meet.google.com/riu-akms-kqu)
+# Aula 02 - Projeto Full-Stack (CRUD) [MEET](https://meet.google.com/zmj-vqdj-aet)
 
 #### Conhecimentos:
 - Revisão de Back-end
