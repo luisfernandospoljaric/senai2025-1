@@ -1,4 +1,4 @@
-# Aula 02 - Projeto Full-Stack (CRUD)
+# Aula 02 - Projeto Full-Stack (CRUD) [MEET](https://meet.google.com/kez-iinp-gid)
 
 #### Conhecimentos:
 - Revisão de Back-end
