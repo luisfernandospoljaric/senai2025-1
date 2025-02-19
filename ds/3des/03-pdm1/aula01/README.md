@@ -59,6 +59,8 @@ Aplicativo Calculadora Simples
 ## Desafio
 Em grupos com até 3 componentes, crie um quiz com pelo menos 10 questões, vários botões de escolhas (3 a 4), sobre um dos temas a seguir:
 - Temas
+    - Português
+    - Matemática
     - História
     - Inglês
     - Geografia
