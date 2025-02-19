@@ -163,3 +163,4 @@ A estrutura de pastas e arquivos do projeto de exemplo está representada na ima
 ## Entrega
 - Envie tudo para o seu repositório no GitHub.
 - Envie o link do seu repositório no **[Form para Entrega](https://forms.gle/BfrUqgi4bbcSHU5NA)**
+- O repositório dever estar estruturado com arquivo README.md conforme [este exemplo](https://github.com/wellifabio/lista01-projetos-sesi-2025.git)
