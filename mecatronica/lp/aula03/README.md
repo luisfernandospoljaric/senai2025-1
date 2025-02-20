@@ -17,3 +17,8 @@
 Os programas em python serão desenvolvidos no laboratório de informática na próxima aula.
 
 ## [Link para a entrega dos códigos fontes em Python](https://forms.gle/7xKikVNzboWx1RM46)
+
+## Correções em aula
+- Correção de alguns exercícios em aula, para que possam ser utilizados como referência para a resolução dos demais exercícios.
+- ![Correção 01](./correcao01.png)
+- ![Correção 02](./correcao02.png)
