@@ -1,4 +1,4 @@
-# Aula 02 - Projeto Full-Stack (CRUD) [MEET](https://meet.google.com/rvs-quos-hyp)
+# Aula 02 - Projeto Full-Stack (CRUD) [MEET](https://meet.google.com/emc-mbpy-tpj)
 
 #### Conhecimentos:
 - Revisão de Back-end
